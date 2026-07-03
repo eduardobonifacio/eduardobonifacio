@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <img width="540" height="416" alt="2ae4ce50-a2aa-4863-8b21-e30c5275b874" src="https://github.com/user-attachments/assets/b05c3d44-7a99-4522-bc9d-61ef45e1a5b4" />
+</div>
 
-<!--
-**eduardobonifacio/eduardobonifacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> About Me</h2>
+<p align="left">
+I'm Eduardo Bonifácio, a self-taught programmer.<br><br>
+I'm interested in Backend Programming, System Architecture, and related topics. <br>
+I enjoy reading, gaming, ricing and building things as a hobby.<br><br>
+I am mainly a Java programmer, using the Spring framework, with an interest in learning C and other low-level languages.<br>
 
-Here are some ideas to get you started:
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> Using these technologies</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,maven,spring,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,mysql&theme=light" />
+</div>
